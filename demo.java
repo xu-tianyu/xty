@@ -1,5 +1,7 @@
-public class demo{
+public class User{
 
-private int username;
-private int passwd;
+private String username;
+private String passwd;
+private String sex;
+
 }
